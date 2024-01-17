@@ -24,6 +24,9 @@ The code was written in co-op coding, both Mazen and Ahmed worked together on it
 
 Everything else was co-op coding
 
+# Documentation
+
+The documentation was written by Mazen showing the exact steps needed to use the program, also explains how the code works in extended details
 # Progression
 
 - The back end is 95% finished missing the ability to play songs with cover being the last 5%
