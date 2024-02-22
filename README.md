@@ -14,6 +14,9 @@ the program doesn't run any music track that has a cover (yet)
 | ---------------------------------------------------------------------- |
 | [Mazen Ahmed Galal Selim](https://github.com/Mazen421)                 |
 | [Ahmed Mohamed Ibrahim Mohamed Elsheikh](https://github.com/HaoTurnip) |
+|   |
+|   |
+|   |
 
 ## Back-End
 
